@@ -1,3 +1,5 @@
+> Originally developed at [codeberg.org/susam/wander](https://codeberg.org/susam/wander) · MIT
+
 Wander Console - Discover the Small Web
 =======================================
 
